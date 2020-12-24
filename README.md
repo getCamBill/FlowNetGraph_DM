@@ -14,8 +14,8 @@ Le prestataire en charge de g´erer ce réseau doit être capable de fournir à 
 
 ```bash
 cd ~
-git clone git@gitlab-etu.fil.univ-lille1.fr:billouard/graphes-dm-billouard-beilacqua.git
-cd graphes-dm-billouard-beilacqua
+git clone https://github.com/getCamBill/FlowNetGraph_DM.git
+cd FlowNetGraph_DM
 ```
 
 ## Présentation 
