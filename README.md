@@ -1,5 +1,3 @@
-# BC² aka BILLOUARD CAMILLE & BEVILACQUA CEDRIC
-
 ## Contexte
 On s’intéresse dans ce sujet à la modélisation d’un réseau de flot dont les capacités de chaque arc
 peuvent varier dans le temps. Typiquement : un r´eseau routier avec des ralentissements, des incidents,
